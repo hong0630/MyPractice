@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimePickerTest</string>
+    <string name="btPtOk">確定</string>
+    <string name="tvPtHead">目前時間如下，請輸入新時間：</string>
+</resources>

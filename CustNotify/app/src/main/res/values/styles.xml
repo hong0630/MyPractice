@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <item name="colorPrimary">@color/design_default_color_primary</item>
+        <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+        <item name="colorAccent">@color/design_default_color_primary_variant</item>
+    </style>
+    <style name="NotificationText" parent="android:TextAppearance.StatusBar.EventContent"></style>
+    <style name="NotificationTitle" parent="android:TextAppearance.StatusBar.EventContent.Title"></style>
+</resources>

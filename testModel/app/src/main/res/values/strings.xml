@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testModel</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <string name="calltext">Voice pairing</string>
+    <string name="chattext">Message pairing</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Handler</string>
+    <string name="tvPtHead">4張照片輪播</string>
+    <string name="ivContDesc">照片</string>
+</resources>

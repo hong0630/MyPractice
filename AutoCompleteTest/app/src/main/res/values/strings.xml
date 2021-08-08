@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoCompleteTest</string>
+    <string name="tvPtPlace">請輸入地點：</string>
+    <string-array name="PlaceArray">
+        <item>taipei</item>
+        <item>taipei government</item>
+        <item>taipei 101</item>
+        <item>taichung</item>
+        <item>taipei railway</item>
+        <item>tainan</item>
+    </string-array>
+</resources>

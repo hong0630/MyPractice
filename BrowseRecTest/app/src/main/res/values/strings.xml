@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BrowseRecTest</string>
+    <string name="tvPtTitle">輸入客戶資料：</string>
+    <string name="tvPtCusNo">客戶編號：</string>
+    <string name="tvPtCusNa">客戶姓名：</string>
+    <string name="tvPtCusPho">客戶電話：</string>
+    <string name="tvPtCusAdd">客戶地址：</string>
+    <string name="htCusNo">在此輸入客戶編號</string>
+    <string name="htCusNa">在此輸入客戶姓名</string>
+    <string name="htCusPho">在此輸入客戶電話</string>
+    <string name="htCusAdd">在此輸入客戶地址</string>
+    <string name="btPtNext">下一筆</string>
+    <string name="btPtPrev">上一筆</string>
+</resources>

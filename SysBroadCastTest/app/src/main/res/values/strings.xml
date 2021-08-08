@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SysBroadCastTest</string>
+    <string name="tvPtHead">正在等候廣播通知，是否已更改系統日期..</string>
+    <string name="btPtEnd">結束</string>
+</resources>

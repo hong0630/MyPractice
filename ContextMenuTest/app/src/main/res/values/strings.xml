@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">快顯功能表</string>
+    <string name="tvPtTitle">請 久按 此畫面，以啟動 快顯功能表</string>
+    <string name="ivContDesc">Photo</string>
+</resources>

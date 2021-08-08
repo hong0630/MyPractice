@@ -1,0 +1,2 @@
+rootProject.name = "GetExtStoTest"
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragMenu2Test</string>
+    <string name="fragmsg">本例示範由 快顯功能表(Context Menu)所組成的視窗區塊！</string>
+    <string name="long_press">請長按此按鈕 看快顯功能表</string>
+</resources>

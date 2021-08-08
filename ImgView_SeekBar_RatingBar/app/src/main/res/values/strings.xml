@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImgView_SeekBar_RatingBar</string>
+    <string name="btPtNext">下一張</string>
+    <string name="btPtPrev">前一張</string>
+    <string name="tvPtAlp">調整照片透明度：</string>
+    <string name="ivContDesc">照片</string>
+</resources>

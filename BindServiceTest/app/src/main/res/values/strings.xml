@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BindServiceTest</string>
+    <string name="tvPrHead">本例示範在修編作業中，同時幕後撥放音樂</string>
+    <string name="tvPtCusNa">客戶名稱：</string>
+    <string name="tvPtCusPh">客戶電話：</string>
+    <string name="htCusNa">輸入客戶名稱</string>
+    <string name="htCusPh">輸入客戶電話</string>
+    <string name="htPtEnd">結束作業</string>
+    <string name="btPtPlay">播放音樂</string>
+    <string name="btPtStop">停止播放</string>
+</resources>

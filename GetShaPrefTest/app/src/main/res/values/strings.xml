@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">儲存偏好設定</string>
+    <string name="tvPtName">品名</string>
+    <string name="etItName">Samung手機</string>
+    <string name="tvPtPrice">價格</string>
+    <string name="etItprice">18000</string>
+    <string name="btPtBut1">儲存字體偏好</string>
+    <string name="btPtBut2">改變字體</string>
+    <string name="btPtBut3">載入字體偏好</string>
+</resources>

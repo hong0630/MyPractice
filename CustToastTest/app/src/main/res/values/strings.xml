@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">自訂Toast</string>
+    <string name="btPtBut1">顯示自訂Toast訊息</string>
+    <string name="ivContDesc">照片</string>
+</resources>

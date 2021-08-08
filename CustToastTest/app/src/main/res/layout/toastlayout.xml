@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toastlayout"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="8dp"
+    android:background="#FFFF99"
+    >
+
+    <ImageView
+        android:layout_width="54dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/notes" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="這是使用者自訂的 Toast訊息！"
+        android:textColor="#0000FF" />
+</LinearLayout>

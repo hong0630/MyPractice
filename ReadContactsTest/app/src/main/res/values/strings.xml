@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">讀取系統聯絡人</string>
+    <string name="tvPtContacts">顯示讀取的系統聯絡人資料</string>
+</resources>

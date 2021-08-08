@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CusAlDialogTest</string>
+    <string name="tvPtUserNa">使用者名稱</string>
+    <string name="tvPtPass">使用者密碼</string>
+    <string name="htUserNa">輸入使用者名稱</string>
+    <string name="htPass">輸入使用者密碼</string>
+    <string name="btPtlogin">登入</string>
+    <string name="btPtOk">確定</string>
+    <string name="btPtCancel">取消</string>
+</resources>

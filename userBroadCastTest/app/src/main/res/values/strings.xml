@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">userBroadCastTest</string>
+    <string name="btPtSendBD">此按鈕發送廣播 通知已完成更新通知</string>
+</resources>

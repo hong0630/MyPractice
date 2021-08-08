@@ -1,0 +1,2 @@
+rootProject.name = "ActBarMenu2Test"
+include ':app'

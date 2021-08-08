@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">外部記憶體資料</string>
+    <string name="tvPtFPath">原始照片路徑；res/drawable/flow01.jpg</string>
+    <string name="btPtBut1">儲存至私有照片區</string>
+    <string name="btPtBut2">從私有照片區讀取照片</string>
+    <string name="ivContDesc">照片</string>
+</resources>

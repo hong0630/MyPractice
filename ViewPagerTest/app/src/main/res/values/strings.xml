@@ -1,0 +1,19 @@
+<resources>
+    <!--  標題  -->
+    <string name="app_name">ViewPager應用</string>
+    <string name="title_screen_slide">滑動螢幕</string>
+    <string name="btPtOk">示範滑動螢幕</string>
+    <string name="tvPtPho1">檢視照片1</string>
+    <string name="tvPtPho2">檢視照片2</string>
+    <string name="tvPtPho3">檢視照片3</string>
+    <string name="tvPtPho4">檢視照片4</string>
+    <string name="tvPtPho5">檢視照片5</string>
+
+    <!--  動作  -->
+    <string name="action_previous">前一頁</string>
+    <string name="action_next">下一頁</string>
+    <string name="action_finish">結束</string>
+
+    <!--  定義動作列的項目  -->
+    <item name="action_next" type="id" />
+</resources>

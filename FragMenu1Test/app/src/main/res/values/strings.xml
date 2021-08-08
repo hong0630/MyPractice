@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragMenu1Test</string>
+    <string name="fragmenumsg">示範由 兩個功能表 組成的 視窗區塊，您可切換顯示 或 隱藏並移除他們！</string>
+    <string name="fragmenu1">顯示 第1個功能表 視窗區塊</string>
+    <string name="fragmenu2">顯示 第2個功能表 視窗區塊</string>
+</resources>

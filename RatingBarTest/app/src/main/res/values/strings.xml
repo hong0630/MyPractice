@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RatingBarTest</string>
+    <string name="tvPtHead">請給下列照片評分：</string>
+    <string name="ivContDesc">照片</string>
+</resources>

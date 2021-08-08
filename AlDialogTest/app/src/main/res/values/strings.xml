@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlDialogTest</string>
+    <string name="btPtExitEd">結束編輯程式</string>
+    <string name="aldTitle">結束編輯程式</string>
+    <string name="aldPrompt">是否儲存編輯內容?</string>
+    <string name="btPtPosit">是</string>
+    <string name="btPtNet">否</string>
+    <string name="btPtNeut">取消</string>
+</resources>
